@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1465445516 source:d:\bow and arrow\imain.cpp
+	"iGraphics.h"
+	<string.h>
+	<math.h>
+
+1465192120 d:\bow and arrow\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465445516 source:g:\l 1 -t 1\bow and arrow\imain.cpp
+	"iGraphics.h"
+	<string.h>
+	<math.h>
+
+1465192120 g:\l 1 -t 1\bow and arrow\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
